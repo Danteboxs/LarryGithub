@@ -3,4 +3,4 @@
 
 Esta serio de libros comentan la historia de un hacker único
 
-**Santiago Rodriguez**
+**Santiago Rodriguez** -- In git we trusth!! , Larry Plotter Fann
